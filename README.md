@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently improving my TypeScript skills !<br>💬 Ask me about React, JavaScript !
+🚀 I’m currently working on a fullStack e-commerce website project using TypeScript - Release soon !<br>💬 Ask me about React, JavaScript !
 
 
 ## 🌐 Socials:
