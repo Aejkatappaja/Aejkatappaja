@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Working & Learning everyday !<br>💬 Ask me about React !
+🚀 Working & Learning everyday !<br>💬 Ask me about JavaScript, React !
 
 
 ## 🌐 Socials:
