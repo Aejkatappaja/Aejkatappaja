@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🪐 About Me:
 🚀 Working & Learning everyday !<br>💬 Ask me about JavaScript, React !
 
 
@@ -13,4 +13,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aejkatappaja&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
