@@ -19,7 +19,13 @@
 
 ## Currently Learning
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) &nbsp; <img src="https://geekflare.com/wp-content/uploads/2023/06/Neovim.png" width="87" height="28.12">
+
+## Planning to Learn
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+
+
 
 
 # 🔭 Details
