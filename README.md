@@ -1,9 +1,10 @@
 ## 🪐 Who's Frank?
 
 
-#### 🇫🇷 &nbsp; &nbsp; Passionate French Developer  
-
-#### 🚀 &nbsp; &nbsp; Working, Learning, Enhancing, Repeat
+#### 💥  &nbsp; Passionate Developer
+#### 📚  &nbsp; Constantly learning and evolving
+#### 👾  &nbsp; Code Enthusiast
+#### ♾️ &nbsp; Living the _Working - Learning - Enhancing - Repeat_ philosophy
 
 
 
