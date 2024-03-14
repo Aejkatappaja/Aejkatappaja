@@ -4,7 +4,6 @@
 #### 💥  &nbsp; Passionate Developer
 #### 📚  &nbsp; Constantly learning and evolving
 #### 👾  &nbsp; Code Enthusiast
-#### ♾️ &nbsp; Living the _Working - Learning - Enhancing - Repeat_ philosophy
 
 ## ⚙️ Tech Stack
 
