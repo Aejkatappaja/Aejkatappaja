@@ -67,6 +67,16 @@ func New() *Aejkatappaja {
       </td>
     </tr>
     <tr>
+       <td width="90" align="center" valign="middle">
+        <img src="https://github.com/Aejkatappaja/phantom-ui/raw/main/.github/assets/logo-phantom.svg" width="64" />
+      </td>
+      <td valign="middle">
+        <strong><a href="https://dev.to/aejkatappaja/your-design-systems-shadow-dom-breaks-skeleton-loaders-heres-the-fix-4de7">Your Design System's Shadow DOM Breaks Skeleton Loaders. Here's the Fix</a></strong><br/>
+        <sub>Shadow DOM hides layout from skeleton loaders. A pierce-shadow attribute traverses open shadow roots and slot projections to measure the real painted elements.</sub><br/>
+        <sub>Code: <a href="https://github.com/Aejkatappaja/phantom-ui">github.com/Aejkatappaja/phantom-ui</a></sub>
+      </td>
+    </tr>
+    <tr>
       <td width="90" align="center" valign="middle">
         <img src="https://github.com/Aejkatappaja/go-ts-types/blob/main/assets/logo.svg" width="32" />
       </td>
