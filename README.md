@@ -58,12 +58,12 @@ func New() *Aejkatappaja {
    <table>
     <tr>
        <td width="90" align="center" valign="middle">
-        <img src="https://github.com/Aejkatappaja/phantom-ui/raw/main/.github/assets/logo-phantom.svg" width="64" />
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="32" />
       </td>
       <td valign="middle">
-        <strong><a href="https://dev.to/aejkatappaja/i-built-a-web-component-that-generates-skeleton-loaders-from-your-real-dom-59ae">I built a Web Component that generates skeleton loaders from your real DOM</a></strong><br/>
-        <sub>Automating skeleton screens by deep-cloning and styling the actual DOM tree into a loading state.</sub><br/>
-        <sub>Code: <a href="https://github.com/Aejkatappaja/phantom-ui">github.com/Aejkatappaja/phantom-ui</a></sub>
+        <strong><a href="https://dev.to/aejkatappaja/i-load-tested-my-side-project-and-postgres-said-no-33h0">My CI was green. At 150 connections, Postgres said no.</a></strong><br/>
+        <sub>Load testing exposed an unbounded Go connection pool. Past Postgres' 100-client limit it rejected connections; capping the pool with SetMaxOpenConns cut failures to zero and p95 latency to 32ms.</sub><br/>
+        <sub>Code: <a href="https://github.com/Aejkatappaja/go-gym">github.com/Aejkatappaja/go-gym</a></sub>
       </td>
     </tr>
     <tr>
@@ -84,6 +84,16 @@ func New() *Aejkatappaja {
         <strong><a href="https://dev.to/aejkatappaja/end-to-end-type-safety-between-go-and-typescript-10mf">End-to-end type safety between Go and TypeScript</a></strong><br/>
         <sub>Comparing ConnectRPC, OpenAPI, GraphQL and manual typing through one shared, branded domain.</sub><br/>
         <sub>Code: <a href="https://github.com/Aejkatappaja/go-ts-types">github.com/Aejkatappaja/go-ts-types</a></sub>
+      </td>
+    </tr>
+    <tr>
+       <td width="90" align="center" valign="middle">
+        <img src="https://github.com/Aejkatappaja/phantom-ui/raw/main/.github/assets/logo-phantom.svg" width="64" />
+      </td>
+      <td valign="middle">
+        <strong><a href="https://dev.to/aejkatappaja/i-built-a-web-component-that-generates-skeleton-loaders-from-your-real-dom-59ae">I built a Web Component that generates skeleton loaders from your real DOM</a></strong><br/>
+        <sub>Automating skeleton screens by deep-cloning and styling the actual DOM tree into a loading state.</sub><br/>
+        <sub>Code: <a href="https://github.com/Aejkatappaja/phantom-ui">github.com/Aejkatappaja/phantom-ui</a></sub>
       </td>
     </tr>
   </table>
