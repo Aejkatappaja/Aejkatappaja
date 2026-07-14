@@ -58,7 +58,17 @@ func New() *Aejkatappaja {
    <table>
     <tr>
        <td width="90" align="center" valign="middle">
-        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="32" />
+        <img src="https://github.com/Aejkatappaja/swapbook/raw/main/assets/logo-mark.svg" width="38" />
+      </td>
+      <td valign="middle">
+        <strong><a href="https://dev.to/aejkatappaja/why-i-proxy-the-app-instead-of-importing-the-components-5hn2">Why I proxy the app instead of importing the components</a></strong><br/>
+        <sub>Storybook imports components in isolation, but hypermedia behavior lives in server routes. Swapbook is a reverse proxy in front of the running app, so real htmx interactions hit the actual backend handlers.</sub><br/>
+        <sub>Code: <a href="https://github.com/Aejkatappaja/swapbook">github.com/Aejkatappaja/swapbook</a></sub>
+      </td>
+    </tr>
+    <tr>
+       <td width="90" align="center" valign="middle">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="28" />
       </td>
       <td valign="middle">
         <strong><a href="https://dev.to/aejkatappaja/i-load-tested-my-side-project-and-postgres-said-no-33h0">My CI was green. At 150 connections, Postgres said no.</a></strong><br/>
