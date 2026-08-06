@@ -41,12 +41,9 @@ func New() *Aejkatappaja {
       <img src="https://qwik.dev/logos/qwik-logo.svg" width="24" />
     </td>
     <td valign="middle">
-      <strong>QwikDev/qwik</strong> · devtools<br/>
+      <strong>QwikDev/qwik</strong> · devtools&nbsp; <a href="https://github.com/QwikDev/qwik/pulls?q=is%3Apr+author%3AAejkatappaja"><img src="https://img.shields.io/badge/Ongoing-8957e5?style=square&logo=git&logoColor=white" alt="PRs" height="18" align="top" /></a><br/>
       <a href="https://github.com/QwikDev/qwik/pulls?q=is%3Apr+author%3AAejkatappaja">Rebuilt the devtools internals</a><br/>
       <sub>One canonical devtools hook runtime · Single source of truth for the shared protocol types · Extension VNode bridge generated from that source · Sidebar tab customization</sub>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://github.com/QwikDev/qwik/pulls?q=is%3Apr+author%3AAejkatappaja"><img src="https://img.shields.io/badge/Ongoing-8957e5?style=square&logo=git&logoColor=white" alt="PRs" /></a>
     </td>
   </tr>
   <tr>
@@ -54,13 +51,10 @@ func New() *Aejkatappaja {
       <img src="https://qwik.dev/logos/qwik-logo.svg" width="24" />
     </td>
     <td valign="middle">
-      <strong>QwikDev/devtools</strong><br/>
+      <strong>QwikDev/devtools</strong>&nbsp; <a href="https://github.com/QwikDev/devtools/pull/97"><img src="https://img.shields.io/badge/Merged-8957e5?style=square&logo=git&logoColor=white" alt="Merged" height="18" align="top" /></a><br/>
       <a href="https://github.com/QwikDev/devtools/pull/97">feat(extension): browser extension for Chrome MV3 &amp; Firefox MV2</a><br/>
       <sub>Component tree · State inspection · Element picker · Live renders</sub><br/>
       <sub>Repo since merged into the <a href="https://github.com/QwikDev/qwik">qwik core monorepo</a></sub>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://github.com/QwikDev/devtools/pull/97"><img src="https://img.shields.io/badge/Merged-8957e5?style=square&logo=git&logoColor=white" alt="Merged" /></a>
     </td>
   </tr>
 </table>
